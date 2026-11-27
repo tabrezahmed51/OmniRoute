@@ -267,7 +267,7 @@
     "@toon-format/toon": "^4.1.0",
     "@types/mdx": "^2.0.13",
     "@xyflow/react": "^12.11.1",
-    "axios": "^1.16.1",
+    "axios": "^1.21.1",
     "bcryptjs": "^3.0.3",
     "bottleneck": "^2.19.5",
     "clsx": "^2.1.1",
@@ -287,7 +287,7 @@
     "ink-text-input": "^6.0.0",
     "ioredis": "^5.10.1",
     "jose": "^6.2.3",
-    "js-yaml": "^5.2.2",
+    "js-yaml": "^5.5.0",
     "jsonc-parser": "^3.3.1",
     "lowdb": "^7.0.1",
     "lucide-react": "^1.21.0",
@@ -330,8 +330,8 @@
     "yazl": "^3.3.1",
     "zod": "^4.6.7",
     "zustand": "^5.0.13",
-    "@huggingface/transformers": "^4.2.0",
-    "onnxruntime-node": "~1.24.3"
+    "@huggingface/transformers": "^4.3.2",
+    "onnxruntime-node": "~1.31.1"
   },
   "optionalDependencies": {
     "@atjsh/llmlingua-2": "2.0.3",
